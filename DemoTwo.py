@@ -28,8 +28,6 @@ for i in b:
 
 print("UnCommon value: {}".format(d))
 
-print("xyz")
-print("m bhi edit karunga")
 
 # list declaration a = [] - empty list declarations
 # list declaration b = [1, 2, 3]
