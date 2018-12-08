@@ -28,6 +28,8 @@ for i in b:
 
 print("UnCommon value: {}".format(d))
 
+print("m bhi edit karunga")
+
 # list declaration a = [] - empty list declarations
 # list declaration b = [1, 2, 3]
 # for loop declarations = for i in a:   --> it counts values from a list
