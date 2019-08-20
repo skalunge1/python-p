@@ -1,0 +1,152 @@
+    1  pyhton
+    2  python
+    3  python -v
+    4  python -V
+    5  pip install robotframework
+    6  sudo easy_install pip
+    7  pip install robotframework
+    8  robot --version
+    9  pip install robotframework
+   10  echo $java_home
+   11  echo $JAVA_HOME
+   12  docker 
+   13  docker -v
+   14  cd .ssh
+   15  ls
+   16  cd Desktop/
+   17  ls
+   18  mkdir smita_ka_git
+   19  cd smita_ka_git/
+   20  ls
+   21  git clone https://github.com/skalunge1/python-p.git
+   22  git clone https://github.com/skalunge1/python-p.git
+   23  xcode-select --install
+   24  git clone https://github.com/skalunge1/python-p.git
+   25  ls
+   26  cd python-p/
+   27  ls
+   28  cp /Users/mau/PycharmProjects/PracticeOne/DemoTwo.py .
+   29  ls
+   30  git status
+   31  git add .
+   32  git commit -m 'first file'
+   33  git config --global --edit
+   34  git commit --amend --reset-author
+   35  git config --global user.name 'Smita'
+   36  git config --global user.email 'smitakalunge22@gmail.com'
+   37  git push
+   38  history
+   39  git pull
+   40  ls
+   41  git checkout -b new_branch
+   42  git branch
+   43  ls
+   44  ls
+   45  vi DemoTwo.py 
+   46  git status
+   47  git add .
+   48  git commit -m 'second commit'
+   49  git push
+   50  git push --set-upstream origin new_branch
+   51  git checkout master
+   52  git branch
+   53  ls
+   54  vi DemoTwo.py 
+   55  git pull
+   56  ls
+   57  vi DemoTwo.py 
+   58  git status
+   59  git add .
+   60  git commit -m 'third commit'
+   61  git push
+   62  history
+   63  pwd
+   64  git ststus
+   65  git status
+   66  git branch
+   67  git checkout -b new
+   68  git checkout again_new
+   69  git checkout -b again_new
+   70  git branch
+   71  git checkout master
+   72  git branch
+   73  git checkout new
+   74  git branch
+   75  cd ..
+   76  cd ..
+   77  docker pull python
+   78  docker pull ubuntu
+   79  docker images
+   80  docker -v
+   81  docker pull ubuntu
+   82  docker images
+   83  docker run 93fd78260bd1
+   84  docker ps
+   85  ls
+   86  docker ps
+   87  docker start 93fd78260bd1
+   88  docker run -it 93fd78260bd1 bash
+   89  docker ps
+   90  docker exec -it b5c0661dfb8a bash
+   91  pwd
+   92  ls
+   93  cd Desktop/
+   94  ls
+   95  cd smita_ka_git/
+   96  ls
+   97  cd python-p/
+   98  vi Dockerfile
+   99  docker exec -it b5c0661dfb8a bash
+  100  docker ps
+  101  docker exec -it b5c0661dfb8a bash
+  102  ls
+  103  pwd
+  104  cd /Desktop
+  105  cd Desktop
+  106  ls
+  107  cd smita_ka_git
+  108  ls
+  109  cd python-p
+  110  git branch
+  111  git checkout -b MyPractice
+  112  git branch
+  113  git status
+  114  cp /Users/mau/PycharmProjects/PracticeOne/DemoFour.py .
+  115  ls
+  116  git status
+  117  ls
+  118  cp /Users/mau/PycharmProjects/PracticeOne/DemoOne.py .
+  119  cp /Users/mau/PycharmProjects/PracticeOne/DemoThree.py .
+  120  cp /Users/mau/PycharmProjects/PracticeOne/DemoFifth.py .
+  121  cp /Users/mau/PycharmProjects/PracticeOne/DemoSix.py .
+  122  ls
+  123  history
+  124  clear
+  125  git status
+  126  git add DemoOne.py DemoFifth.py DemoFour.py DemoSix.py DemoThree.py 
+  127  git status
+  128  git commit -m "Basic list operations"
+  129  git status
+  130  git push
+  131  git push --set-upstream origin MyPractice
+  132  clear
+  133  docker ps
+  134  docker exec -it b5c0661dfb8a bash
+  135  ls
+  136  git branch
+  137  git fetchall
+  138  git --fetchall
+  139  cd master
+  140  git checkout master
+  141  git branch
+  142  ls
+  143  git pull
+  144  ls
+  145  cd ..
+  146  cd ..
+  147  cd smita_ka_git/
+  148  pwd
+  149  ls
+  150  cd python-p
+  151  history
+  152  history > commands
